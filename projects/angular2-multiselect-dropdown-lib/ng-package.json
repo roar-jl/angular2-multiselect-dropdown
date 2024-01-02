@@ -1,15 +1,16 @@
 {
+    "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
     "lib": {
         "entryFile": "src/public_api.ts"
-      },
-      "allowedNonPeerDependencies": [
+    },
+    "allowedNonPeerDependencies": [
         "@tweenjs/tween.js"
-      ],
-      "assets": [
+    ],
+    "assets": [
         "README.md",
         "LICENSE",
         "./themes/*.theme.scss",
         "./themes/*.theme.css"
-      ],
-      "dest": "../../dist"
+    ],
+    "dest": "../../dist"
 }

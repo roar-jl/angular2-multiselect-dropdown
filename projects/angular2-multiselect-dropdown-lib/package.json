@@ -1,5 +1,4 @@
 {
-  "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
   "name": "angular2-multiselect-dropdown",
   "version": "16.0.0",
   "license": "MIT",
